@@ -1,0 +1,5 @@
+streamlit
+torch
+numpy
+music21
+running commad:- python -m streamlit run app.py
